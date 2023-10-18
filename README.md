@@ -1,2 +1,2 @@
 # portfolio
-Hi, welcome to Dae-Yong's project repository
+Hi, welcome to Dae-Yong's projects repository
